@@ -13,6 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Shawn-Yu-1&langs_count=4&theme=rose)](https://github-stats-extended.vercel.app/api/top-langs?username=Shawn-Yu-1&langs_count=4&theme=rose)
-
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Shawn-Yu-1)](https://github.com/stats-organization/github-stats-extended)
 
